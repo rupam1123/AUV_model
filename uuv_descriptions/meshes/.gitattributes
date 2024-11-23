@@ -1,0 +1,2 @@
+/home/rupam/atal/src/ATAL_software/uuv_descriptions/meshes/base.stl filter=lfs diff=lfs merge=lfs -text
+/home/rupam/atal/src/ATAL_software/uuv_descriptions/meshes/props.stl filter=lfs diff=lfs merge=lfs -text
